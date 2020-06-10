@@ -11,3 +11,5 @@
 
 ## Week-2
 1. Power of Two
+2. Is Subsequence
+3. Search Insert Position
